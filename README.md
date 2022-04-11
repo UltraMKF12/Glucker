@@ -1,2 +1,2 @@
 # Glucker
- Platformer Project
+ 2D Platformer Project
