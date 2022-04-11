@@ -1,4 +1,7 @@
 # Glucker
  2D Platformer Project
  
- Made by: Prof.Prof
+!Ingame Preview](Images/Ingame Preview.png)
+
+Made by: Prof.Prof
+Art: Kenney
